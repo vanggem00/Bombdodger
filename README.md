@@ -1,4 +1,4 @@
-#INSTRUCTIONS
+# Instructions
 YOU NEED TO DOWNLOAD bombdodger.py TO YOUR DEVICE!
 First, download Python from python.org/downloads. Downloading 3.14.7 is recommended.
 Then, open the installer and follow the instructions.
