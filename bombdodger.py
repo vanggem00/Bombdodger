@@ -1,7 +1,5 @@
 import tkinter
-from tkinter import messagebox
 import random
-import time
 gameOver = False
 score = 0
 squaresToClear = 0
